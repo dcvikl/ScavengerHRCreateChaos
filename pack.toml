@@ -1,0 +1,13 @@
+name = "ScavengerHRs_CreateChaos"
+author = "ScavengerHR"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ae69cc243e82a890f5b56c11770153f77b9d1c6e2b3e560b5881151451c3102d"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

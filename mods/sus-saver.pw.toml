@@ -1,0 +1,13 @@
+name = "Sus Saver"
+filename = "sus_saver-0.0.1-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYu8cd0s/versions/tMDqnsyv/sus_saver-0.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "b1e6f006264c41344e6dae364cf2f4003c377c2699dbaf25e61dae0e6ec1fe27b13230628e96cd6e85944f0a61217e0feaefe1c166fa6eb36ea57e636d00fa16"
+
+[update]
+[update.modrinth]
+mod-id = "kYu8cd0s"
+version = "tMDqnsyv"
